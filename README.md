@@ -21,11 +21,15 @@ In python, the serial is equal to the sum of the characters in the username ^ 0x
 
 So I simply wrote a python script that takes the *capitalized* version of the Name, performs this calculation, and returns the Serial that will pass the CrackMe test.
 
-## Example
-Running my python script
+## Examples
+Running my python script on my own name.
 
 ![Python_script_run_example](https://github.com/jkwourms/Security_HW3_Part1/blob/master/run_python_example.jpg)
 
 We can see that the Serial corrosponding to my name is 17553. Entering this number into the CrackMe program results in a successful response.
 
 ![Successful CrackMe!](https://github.com/jkwourms/Security_HW3_Part1/blob/master/good%20job.JPG)
+
+I also ran the script on the TA's names to give their resulting Serial values.
+
+![TA Serials](https://github.com/jkwourms/Security_HW3_Part1/blob/master/ta_names.jpg)

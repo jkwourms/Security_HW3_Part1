@@ -19,7 +19,8 @@ So I simply wrote a python script that takes the *capitalized* version of the Na
 
 ## Example
 Running my python script
-![Python_script_run_example](run_python_example.JPG)
+
+![Python_script_run_example](https://github.com/jkwourms/Security_HW3_Part1/blob/master/run_python_example.jpg)
 
 We can see that the Serial corrosponding to my name is 17553. Entering this number into the CrackMe program results in a successful response.
 
